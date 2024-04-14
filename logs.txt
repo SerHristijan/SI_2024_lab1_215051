@@ -1,0 +1,35 @@
+commit 2288511917c1b782168e6bcdd7d14bb532aa78f3 (HEAD -> master, bug2)
+Author: SerHristijan <hristijan.serafimovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 14:37:59 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 18061996e72f6819674958f211b97a786bc79850
+Author: SerHristijan <hristijan.serafimovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 14:30:13 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 32c5bd6a30f69467adf49d324e0bb7743262c8b6 (origin/master, origin/bug1, bug1)
+Author: SerHristijan <hristijan.serafimovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 14:36:16 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 8af58c98de52749752227d4fb5c7f27ca742a956
+Author: SerHristijan <hristijan.serafimovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 14:25:59 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit fe80cb2a48a11c0ec6d15a2970d13817118c4899
+Author: SerHristijan <hristijan.serafimovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 14:19:29 2024 +0200
+
+    Add starter code
+
+commit d203b04bb9f957b5356276bb41dc52da6ebaf04e
+Author: SerHristijan <hristijan.serafimovski@students.finki.ukim.mk>
+Date:   Sun Apr 14 14:17:17 2024 +0200
+
+    Initial commit
